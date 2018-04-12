@@ -1,5 +1,5 @@
 def heartbeat():
-    
+    #updated
     print ("Target Heart Rate while exercising")
     Name = str(input("What is your name? "))
     Age = int(input("What is your age? "))
